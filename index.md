@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Follow us as we learn about robotics and compete in the VEX IQ Challenge!
